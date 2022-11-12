@@ -1,7 +1,8 @@
 <html>
 <head>
 </head>
-
+   <style>
+   </style>
 <body>
 <h1>Hello this ishomepage.txt</h1>
 </body>
